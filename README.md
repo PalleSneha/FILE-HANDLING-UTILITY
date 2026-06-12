@@ -23,3 +23,6 @@ To make the project unique, I added an **Automatic Backup System** that creates 
 The tools and technologies used in this project include **Java 21**, **Java IO**, **Java NIO File API**, **Collections Framework**, and **Exception Handling**. For development and testing, I used **Visual Studio Code (VS Code)** with the Java Extension Pack. The program was compiled using `javac` and executed through the VS Code terminal.
 
 This project can be applied in various real-world scenarios such as managing student records, maintaining customer information, handling text-based documents, and tracking file modifications in organizations. Overall, this task helped me gain practical knowledge of Java file handling, file management, exception handling, and creating user-friendly applications.
+
+"OUTPUT" :  
+[Task 1 Screen Shots.docx](https://github.com/user-attachments/files/28877836/Task.1.Screen.Shots.docx)
